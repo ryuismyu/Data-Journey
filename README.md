@@ -34,23 +34,38 @@ Interleaved with Track A rather than run strictly after it, so Python/Pandas ski
 
 ### Track C — AI/ML Differentiation
 
-The actual "ahead of the curve" bet for AI Engineer roles — most DA/DS candidates stop at classical ML.
+The actual "ahead of the curve" bet for AI Engineer roles — most DA/DS candidates stop at classical ML. **Agentic AI moved first**, ahead of PyTorch — it's the single most-emphasized "stand out" skill in current AI Engineer postings (e.g. Deloitte's Data & AI Solutions Engineering Analyst posting, reviewed 2026-09-17: "building AI-powered systems that observe, decide, and act with autonomy"), and it doesn't actually require deep learning fundamentals first — it's mostly API use, prompting, and orchestration.
 
 | # | Topic | Status | Dates |
 |---|-------|--------|-------|
-| 10 | PyTorch | Planned | 2026-10-21 → 2026-11-17 |
-| 11 | Hugging Face / LLM fundamentals | Planned | 2026-11-18 → 2026-12-08 |
+| 10 | Agentic AI fundamentals + project (LLM tool use, decision loops, guardrails/audit trails) | Planned | 2026-10-21 → 2026-11-10 |
+| 11 | PyTorch | Planned | 2026-11-11 → 2026-12-08 |
+| 12 | Hugging Face / LLM fundamentals (deepen: model internals, fine-tuning) | Planned | 2026-12-09 → 2026-12-29 |
 
-### Track D — Delegated to External Resources
+### Track D — Cloud & MLOps/Deployment
 
-Taught lightly (or not at all) here — pointed to a course/certification instead, with a hands-on pass only when it comes up naturally in a real project (e.g. deploying a dashboard). No fixed dates — timing is driven by real triggers, not the calendar:
+Elevated from a "someday" pointer to a properly taught track — postings like Deloitte's list cloud platform familiarity as a **required** qualification (not just preferred), and MLOps/CI-CD as explicitly preferred. Cloud fundamentals (compute, storage, IAM, managed services) overlap heavily across AWS/Azure/GCP, so taught once as transferable concepts with platform-specific differences flagged, rather than three separate deep-dives. Docker folds in here too, as part of the deployment pipeline work, rather than waiting on an unrelated trigger.
+
+| # | Topic | Status | Dates |
+|---|-------|--------|-------|
+| 13 | Cloud fundamentals — AWS, Azure, GCP (transferable core concepts + key differences) | Planned | 2026-12-30 → 2027-01-26 |
+| 14 | MLOps, CI/CD & deployment (Docker, MLflow/experiment tracking, deploying one model through a real pipeline) | Planned | 2027-01-27 → 2027-02-16 |
+
+Target: fully "stacked" across Tracks A–D by **mid-to-late Feb 2027** — well ahead of a March 2027 full-time application push, with buffer for portfolio polish and interview prep. (Not realistic before the 11/1/2026 deadline on any single posting like Deloitte's — the required-qualifications bar is covered by Track A/B well before then; the differentiators above are a deliberate longer-term bet, not a same-quarter fix.)
+
+### Track E — Delegated to External Resources
+
+Genuinely lowest priority, pointer-only unless a specific job posting demands it:
 
 - **Snowflake/BigQuery** — cheapest to add since it's mostly SQL knowledge transferring directly. Quick pass right after Track B wraps, **~late Oct 2026** — only the cloud-specific differences get covered.
-- **Docker/Kubernetes** — best learned attached to an actual deploy, not in the abstract. Trigger: whenever the paused Purdue softball dashboard project resumes — if it's still paused once Track C wraps, deliberately resume it then as the vehicle for this.
-- **AWS/GCP, Spark, MLflow/W&B** — genuinely demand-driven. Plan: once Track C wraps (**~early Dec 2026**), audit actual job postings for the roles being targeted and prioritize only what's showing up repeatedly, rather than learning all of them speculatively.
+- **Spark** — pointer to a course/cert only; revisit if it shows up repeatedly in postings for targeted roles.
 
 ### Staying Self-Directed
 
 Power BI/Tableau (basic knowledge already, kept warm independently), case-interview prep, Git/GitHub (learned informally throughout, not a discrete track).
 
-*Last updated: 2026-09-16*
+### Staying Current
+
+Once Tracks A–D are solid, this roadmap doesn't freeze — periodically re-scan what's actually in demand for the targeted roles (job postings, industry trend reports) and fold newly-relevant tools/skills into the study list, so the plan keeps adapting rather than going stale. This is an ongoing process, not a one-time pass.
+
+*Last updated: 2026-09-17*
