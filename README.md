@@ -43,12 +43,11 @@ The actual "ahead of the curve" bet for AI Engineer roles — most DA/DS candida
 
 ### Track D — Delegated to External Resources
 
-Taught lightly (or not at all) here — pointed to a course/certification instead, with a hands-on pass only when it comes up naturally in a real project (e.g. deploying a dashboard).
+Taught lightly (or not at all) here — pointed to a course/certification instead, with a hands-on pass only when it comes up naturally in a real project (e.g. deploying a dashboard). No fixed dates — timing is driven by real triggers, not the calendar:
 
-- **AWS/GCP** — cert path (e.g. AWS Cloud Practitioner) when relevant
-- **Docker/Kubernetes** — short course; hands-on only when actually deploying something
-- **Snowflake/BigQuery** — SQL knowledge transfers directly; only the differences get covered
-- **Spark, MLflow/W&B** — pointer-only, unless a specific job posting requires it
+- **Snowflake/BigQuery** — cheapest to add since it's mostly SQL knowledge transferring directly. Quick pass right after Track B wraps, **~late Oct 2026** — only the cloud-specific differences get covered.
+- **Docker/Kubernetes** — best learned attached to an actual deploy, not in the abstract. Trigger: whenever the paused Purdue softball dashboard project resumes — if it's still paused once Track C wraps, deliberately resume it then as the vehicle for this.
+- **AWS/GCP, Spark, MLflow/W&B** — genuinely demand-driven. Plan: once Track C wraps (**~mid-Dec 2026**), audit actual job postings for the roles being targeted and prioritize only what's showing up repeatedly, rather than learning all of them speculatively.
 
 ### Staying Self-Directed
 
