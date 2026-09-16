@@ -18,10 +18,10 @@ Studying ~15 hrs/week. Dates below are estimates based on that pace, not commitm
 | 1 | Python logic fundamentals | ✅ Done | — |
 | 2 | NumPy fundamentals | ✅ Done | — |
 | 3 | Pandas fundamentals (boolean filtering, `groupby`, missing data, `.loc`/`.iloc`) | ✅ Done | 2026-09-16 |
-| 4 | EDA & basic stats (distributions, correlation, Matplotlib/Seaborn/Plotly) | Next | 2026-09-16 → 2026-09-29 |
-| 5 | scikit-learn fundamentals (train/test split, fit/predict, evaluation metrics, data leakage) | Planned | 2026-09-30 → 2026-10-13 |
-| 6 | **Titanic Kaggle competition, end-to-end** (first concrete milestone) | Planned | 2026-10-14 → 2026-10-27 |
-| 7 | More Kaggle competitions | Planned | 2026-10-28 → ongoing |
+| 4 | EDA & basic stats (distributions, correlation, Matplotlib/Seaborn/Plotly) | Next | 2026-09-16 → 2026-09-22 |
+| 5 | scikit-learn fundamentals (train/test split, fit/predict, evaluation metrics, data leakage) | Planned | 2026-09-23 → 2026-10-06 |
+| 6 | **Titanic Kaggle competition, end-to-end** (first concrete milestone) | Planned | 2026-10-07 → 2026-10-20 |
+| 7 | More Kaggle competitions | Planned | 2026-10-21 → ongoing |
 
 ### Track B — SQL
 
@@ -38,8 +38,8 @@ The actual "ahead of the curve" bet for AI Engineer roles — most DA/DS candida
 
 | # | Topic | Status | Dates |
 |---|-------|--------|-------|
-| 10 | PyTorch | Planned | 2026-10-28 → 2026-11-24 |
-| 11 | Hugging Face / LLM fundamentals | Planned | 2026-11-25 → 2026-12-15 |
+| 10 | PyTorch | Planned | 2026-10-21 → 2026-11-17 |
+| 11 | Hugging Face / LLM fundamentals | Planned | 2026-11-18 → 2026-12-08 |
 
 ### Track D — Delegated to External Resources
 
@@ -47,7 +47,7 @@ Taught lightly (or not at all) here — pointed to a course/certification instea
 
 - **Snowflake/BigQuery** — cheapest to add since it's mostly SQL knowledge transferring directly. Quick pass right after Track B wraps, **~late Oct 2026** — only the cloud-specific differences get covered.
 - **Docker/Kubernetes** — best learned attached to an actual deploy, not in the abstract. Trigger: whenever the paused Purdue softball dashboard project resumes — if it's still paused once Track C wraps, deliberately resume it then as the vehicle for this.
-- **AWS/GCP, Spark, MLflow/W&B** — genuinely demand-driven. Plan: once Track C wraps (**~mid-Dec 2026**), audit actual job postings for the roles being targeted and prioritize only what's showing up repeatedly, rather than learning all of them speculatively.
+- **AWS/GCP, Spark, MLflow/W&B** — genuinely demand-driven. Plan: once Track C wraps (**~early Dec 2026**), audit actual job postings for the roles being targeted and prioritize only what's showing up repeatedly, rather than learning all of them speculatively.
 
 ### Staying Self-Directed
 
