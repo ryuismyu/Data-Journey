@@ -59,6 +59,7 @@ Genuinely lowest priority, pointer-only unless a specific job posting demands it
 
 - **Snowflake/BigQuery** — cheapest to add since it's mostly SQL knowledge transferring directly. Quick pass right after Track B wraps, **~late Oct 2026** — only the cloud-specific differences get covered.
 - **Spark** — pointer to a course/cert only; revisit if it shows up repeatedly in postings for targeted roles.
+- **Project management (Jira + Agile/Scrum)** — genuinely valuable across Data Analyst, BI Engineer, and consulting-style roles (client/cross-functional coordination, sprint planning), and Ryan's actively exploring it. Jira is the most broadly relevant tool for data/tech-adjacent teams specifically; a short Agile/Scrum fundamentals certificate (e.g. Scrum Fundamentals Certified, or the Google Project Management Certificate for broader PM methodology) is the efficient way in, rather than a deep-taught module here.
 
 ### Staying Self-Directed
 
