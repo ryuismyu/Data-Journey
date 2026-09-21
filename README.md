@@ -32,6 +32,20 @@ Interleaved with Track A rather than run strictly after it, so Python/Pandas ski
 | 8 | SQL fundamentals (baseline check → joins, aggregation, subqueries, window functions) | Planned | 2026-09-16 → 2026-10-20 |
 | 9 | DuckDB | Planned | 2026-10-21 → 2026-10-27 |
 
+### Track B.5 — Technical Interview Prep (Python/SQL, LeetCode-style)
+
+Added 2026-09-19 after a rough first technical coding interview — went in with no structured practice, want to fix that gap directly rather than assume Track A/B fluency transfers to interview conditions under time pressure. Runs interleaved with Tracks A/B (not blocking them), starting at fundamentals and ramping difficulty, with the goal of being genuinely interview-ready by **mid-Oct to Nov 2026**. Practice here is supplemented independently with self-driven LeetCode reps outside of lesson sessions.
+
+| # | Topic | Status | Dates |
+|---|-------|--------|-------|
+| B.5 | Python + SQL interview questions, basic → intermediate → hard, timed/interview-style practice | In Progress | 2026-09-19 → 2026-11-30 |
+
+**Practice platforms (DS-specific, beyond LeetCode):**
+- **StrataScratch** — real DS/analytics interview questions pulled from actual companies (Meta, Amazon, etc.), strong SQL + Python/Pandas coverage
+- **DataLemur** — SQL-focused, questions tagged by real company + difficulty, good for timed drilling
+- **Interview Query** — DS/ML-specific interview questions including SQL, Python, stats, and case-style questions, closer to actual DS interview format than general coding platforms
+- LeetCode itself is still worth using for the general coding-interview muscle (arrays, strings, algorithms) most technical screens include regardless of DS focus — but its "Database" section alone under-represents what real DS SQL rounds look like compared to the platforms above.
+
 ### Track C — AI/ML Differentiation
 
 The actual "ahead of the curve" bet for AI Engineer roles — most DA/DS candidates stop at classical ML. **Agentic AI moved first**, ahead of PyTorch — it's the single most-emphasized "stand out" skill in current AI Engineer postings (e.g. Deloitte's Data & AI Solutions Engineering Analyst posting, reviewed 2026-09-17: "building AI-powered systems that observe, decide, and act with autonomy"), and it doesn't actually require deep learning fundamentals first — it's mostly API use, prompting, and orchestration.
@@ -63,7 +77,14 @@ Genuinely lowest priority, pointer-only unless a specific job posting demands it
 
 ### Staying Self-Directed
 
-Power BI/Tableau (basic knowledge already, kept warm independently), case-interview prep, Git/GitHub (learned informally throughout, not a discrete track).
+Power BI/Tableau (basic knowledge already, kept warm independently), case-interview prep, Git/GitHub (learned informally throughout, not a discrete track). CS50P (Harvard's free Python course) running independently alongside Track B.5 for structured fundamentals review, addressing gaps surfaced during interview-style practice (e.g. loop-by-index, `range()` mechanics, list indexing).
+
+### External Resources
+
+- **[awesome-datascience](https://github.com/academic/awesome-datascience#where-do-i-start)** — beginner roadmap reference; validated 2026-09-21 that Track A's sequencing (Python → NumPy/Pandas → EDA/stats → scikit-learn → Kaggle project) already matches its recommended order
+- **CS50P** (Harvard, free, edX/YouTube) — structured Python fundamentals, used for interview-prep gap-filling (Track B.5)
+- **W3Schools Python** — quick syntax reference/lookup while coding
+- **Math basics (stats, probability, linear algebra)** — not yet a dedicated track; currently folded into Track A step 4 (EDA & basic stats). Flagged as a gap vs. the awesome-datascience roadmap, which lists math as its own step before ML — revisit if Track A step 5 (scikit-learn) surfaces concepts that need more grounding than EDA alone provides.
 
 ### Staying Current
 
