@@ -72,11 +72,11 @@ Target: fully "stacked" across Tracks A–D by **mid-to-late Feb 2027** — well
 
 ### Certifications
 
-Layered onto Track D rather than a separate track — cloud fundamentals certs first (cheap, broad resume signal), then platform-specific, then the agentic-AI differentiator last once there's real hands-on practice behind it.
+Layered onto Track D rather than a separate track — cloud fundamentals certs first (cheap, broad resume signal), then platform-specific, then the agentic-AI differentiator last once there's real hands-on practice behind it. C1 pulled forward — no prerequisites, runs fine in parallel with Track B (SQL/BigQuery).
 
 | # | Cert | Status | Target |
 |---|------|--------|--------|
-| C1 | AWS Certified Cloud Practitioner (CLF-C02) | Planned | alongside Track D step 13, ~Dec 2026–Jan 2027 |
+| C1 | AWS Certified Cloud Practitioner (CLF-C02) | In Progress | 2026-09-25 → ongoing (parallel with Track B) |
 | C2 | AZ-900 (Azure Fundamentals) | Planned | right after C1 — high overlap, cheap add-on |
 | C3 | Databricks Certified (Data Engineer Associate or ML Associate — pick per target role) | Planned | after C1/C2, alongside Track D step 14 (MLOps), ~Feb 2027 |
 | C4 | Claude Code Architect | Planned | last — after Track C (agentic AI) and real Claude Code usage, ~late Feb–Mar 2027 |
