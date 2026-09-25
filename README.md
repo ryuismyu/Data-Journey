@@ -31,6 +31,7 @@ Interleaved with Track A rather than run strictly after it, so Python/Pandas ski
 |---|-------|--------|-------|
 | 8 | SQL fundamentals (baseline check → joins, aggregation, subqueries, window functions) | Planned | 2026-09-16 → 2026-10-20 |
 | 9 | DuckDB | Planned | 2026-10-21 → 2026-10-27 |
+| 9.5 | BigQuery (GCP data warehouse — SQL dialect differences, querying at scale) | In Progress | 2026-09-24 → ongoing |
 
 ### Track B.5 — Technical Interview Prep (Python/SQL, LeetCode-style)
 
@@ -64,20 +65,37 @@ Elevated from a "someday" pointer to a properly taught track — postings like D
 |---|-------|--------|-------|
 | 13 | Cloud fundamentals — AWS, Azure, GCP (transferable core concepts + key differences) | Planned | 2026-12-30 → 2027-01-26 |
 | 14 | MLOps, CI/CD & deployment (Docker, MLflow/experiment tracking, deploying one model through a real pipeline) | Planned | 2027-01-27 → 2027-02-16 |
+| 15 | Vertex AI (GCP managed ML platform — training, pipelines, model deployment) | Planned | 2027-02-17 → 2027-03-02 |
+| 16 | Graph databases (e.g. Neo4j — modeling, Cypher queries, use cases like recommendations/fraud/knowledge graphs) | Planned | 2027-03-03 → 2027-03-16 |
 
 Target: fully "stacked" across Tracks A–D by **mid-to-late Feb 2027** — well ahead of a March 2027 full-time application push, with buffer for portfolio polish and interview prep. (Not realistic before the 11/1/2026 deadline on any single posting like Deloitte's — the required-qualifications bar is covered by Track A/B well before then; the differentiators above are a deliberate longer-term bet, not a same-quarter fix.)
+
+### Certifications
+
+Layered onto Track D rather than a separate track — cloud fundamentals certs first (cheap, broad resume signal), then platform-specific, then the agentic-AI differentiator last once there's real hands-on practice behind it.
+
+| # | Cert | Status | Target |
+|---|------|--------|--------|
+| C1 | AWS Certified Cloud Practitioner (CLF-C02) | Planned | alongside Track D step 13, ~Dec 2026–Jan 2027 |
+| C2 | AZ-900 (Azure Fundamentals) | Planned | right after C1 — high overlap, cheap add-on |
+| C3 | Databricks Certified (Data Engineer Associate or ML Associate — pick per target role) | Planned | after C1/C2, alongside Track D step 14 (MLOps), ~Feb 2027 |
+| C4 | Claude Code Architect | Planned | last — after Track C (agentic AI) and real Claude Code usage, ~late Feb–Mar 2027 |
+
+Also worth a beginner-friendly checkpoint alongside Track A/B: **DataCamp's "Associate Data Scientist in Python" career track + certification** — more structured/guided than this self-directed roadmap, good as a credential that validates the fundamentals already being built here.
 
 ### Track E — Delegated to External Resources
 
 Genuinely lowest priority, pointer-only unless a specific job posting demands it:
 
-- **Snowflake/BigQuery** — cheapest to add since it's mostly SQL knowledge transferring directly. Quick pass right after Track B wraps, **~late Oct 2026** — only the cloud-specific differences get covered.
+- **Snowflake** — cheapest to add since it's mostly SQL knowledge transferring directly. Quick pass right after Track B wraps, **~late Oct 2026** — only the cloud-specific differences get covered. (BigQuery moved to Track B — in progress now.)
 - **Spark** — pointer to a course/cert only; revisit if it shows up repeatedly in postings for targeted roles.
 - **Project management (Jira + Agile/Scrum)** — genuinely valuable across Data Analyst, BI Engineer, and consulting-style roles (client/cross-functional coordination, sprint planning), and Ryan's actively exploring it. Jira is the most broadly relevant tool for data/tech-adjacent teams specifically; a short Agile/Scrum fundamentals certificate (e.g. Scrum Fundamentals Certified, or the Google Project Management Certificate for broader PM methodology) is the efficient way in, rather than a deep-taught module here.
 
 ### Staying Self-Directed
 
 Power BI/Tableau (basic knowledge already, kept warm independently), case-interview prep, Git/GitHub (learned informally throughout, not a discrete track). CS50P (Harvard's free Python course) running independently alongside Track B.5 for structured fundamentals review, addressing gaps surfaced during interview-style practice (e.g. loop-by-index, `range()` mechanics, list indexing).
+
+**Hackathons** — register and participate opportunistically as they come up (Devpost, Kaggle competitions, local/university events), not a scheduled track. Cheap way to build portfolio projects, get exposure to real time-boxed problem-solving, and network.
 
 ### External Resources
 
